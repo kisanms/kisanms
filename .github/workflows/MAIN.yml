@@ -28,6 +28,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Example of setting an environment variable without using set-output
+      - name: Set custom environment variable
+        run: echo "CUSTOM_VARIABLE=value" >> $GITHUB_ENV
+
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
