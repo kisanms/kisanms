@@ -39,12 +39,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kisanms&show_icons=true&locale=en&layout=compact" alt="kisanms" />
 
 </div>
-<div align="center">
-  
-  ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@kisanmajum53233/30-nites-of-code)  
-  ![@kisanmajum53233 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kisanmajum53233)
-</div>
+
 <div align="center">
   
 ![snake gif](https://github.com/kisanms/kisanms/blob/output/github-snake.svg)
