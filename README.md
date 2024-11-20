@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gif)](https://kisanms.hashnode.dev)
 <h1 align="center">Hi 👋, I'm Kisan Majumdar</h1>
 <h3 align="center">A passionate Web & Mobile developer from India</h3>
-<img align="right" alt="Coding" width="500" height="281" src="https://giffiles.alphacoders.com/756/75682.gif">
+<img align="right" alt="Coding" width="500" heigh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisanms&label=Profile%20views&color=0e75b6&style=flat" alt="kisanms" /> </p>
 
