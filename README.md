@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web & Mobile developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisanms&label=Profile%20views&color=0e75b6&style=flat" alt="kisanms" /> </p>
+
 
 
 
