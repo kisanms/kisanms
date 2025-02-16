@@ -31,7 +31,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/kisanms/kisanms/blob/output/github-snake.svg)
+![snake gif](https://github.com/kisanm/kisanms/blob/output/github-snake.svg)
 
 </div>
 
