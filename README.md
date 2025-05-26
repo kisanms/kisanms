@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on tracking application <br><br>🌱 I’m currently learning React-native<br><br>📝 I write articles on https://kisanms.hashnode.dev/<br><br>💬 Ask me about Mobile Development and Mern Stack<br><br>📫 How to reach me kisanmajumdar44@gmail.com<br><br>⚡ Fun fact totally funny with my besties
+🔭 I’m currently working on Realtor Expenses <br><br>🌱 I’m currently learning React-native<br><br>📝 I write articles on https://kisanms.hashnode.dev/<br><br>💬 Ask me about Mobile Development and Mern Stack<br><br>📫 How to reach me kisanmajumdar44@gmail.com<br><br>⚡ Fun fact totally funny with my besties
 
 
 ## 🌐 Socials:
